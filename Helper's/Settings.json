@@ -1,0 +1,33 @@
+{
+"guildID": "", //DEMEME GEREK YOK HERHALDE .XD
+"Client.Token": "",
+"Prefix": ".",
+"DatabaseCenter": "",
+"TalentPrefix": [".", "!"],
+"Bot.Owner": ["728161454288535604", "728161454288535604"],//KENDİ İDNİZİ GİRİN EZİKLER AHAHAHAHAHAHAHYYHT
+"Client.Voice.Channel": "972868727840317501",
+"Client.Bot.Footer": "Wex ve Anora Sizi çok sewio",
+"Client.Bot.Activity": "Wex ve Anora Sizi çok sewio",
+"Guild.Süpheli.İsim": "Süpheli",
+"Guild.Unregister.İsim": "İsim | Yaş",
+"KurallarChannel": "",
+"Warning": "<a:red:973939584985600051>",//BUNU GİRİN YA 2 SNNİZİ ALMAZ ZATEN 
+"KayıtCezaPuan": 750,
+"banLimit": 3,
+"chatMuteLimit": 5,
+"voiceMuteLimit": 5,
+"jailLimit": 3,
+"boosterLimit": 3,
+"voicekickLimit": 5,
+"mbLimit": 5,
+"Guild.Vip.Role": "972868710081642547",
+"Guild.Vip.Name": "vip",
+"Guild.Clown.Role": "",
+"Guild.Yetki.Baslangıc": "pixie",
+"Guild.Yetki.2.Yetki": "star",
+"Guild.Yetki.3.Yetki": "winx",
+"Hosgeldin.Chat.Message": "Aramıza katıldı.",
+"İltifatSayı": 100,
+"TümYetkiler": [""]
+
+}
